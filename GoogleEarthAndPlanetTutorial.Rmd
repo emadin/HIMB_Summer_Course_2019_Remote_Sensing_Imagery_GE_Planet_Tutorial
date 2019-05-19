@@ -7,7 +7,7 @@ output:
   #html_document
 ---
 
-## Summary
+## Summary 
 
 Tutorial on key features of Google Earth Engine and Planet Explorer. 
 

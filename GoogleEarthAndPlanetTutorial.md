@@ -1,4 +1,4 @@
-Remote Sensing Imagery Module: Google Earth and Planet Expolorer Tutorial
+Remote Sensing Imagery Module: Google Earth and Planet Explorer Tutorial
 ================
 Elizabeth Madin
 16/05/2019
