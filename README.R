@@ -1,0 +1,1 @@
+This is an outline of the Day 1 (afternoon) Google Earth/Planet Explorer tutorial component of the Remote Sensing Imagery module of the HIMB Summer Course 2019.
