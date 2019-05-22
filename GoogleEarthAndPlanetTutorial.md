@@ -112,14 +112,14 @@ These are at least the main types found in Google Earth, though this list is not
         ----------------- | --------------- | ---------------------- | ------------  
         US Geolog. Survey | Landsat         | 30 (15 pan-sharpened)  | LS1 from 1972; LS8 from Feb 2013 
         SpotImage         | SPOT 1-7        | 10 - 2.5               | Mar 1998 – present 
-        Digital Globe     | EarlyBird-1     | 3                      | DigitalGlobe 
-        Digital Globe     | Ikonos          | ~1                     | DigitalGlobe  
-        Digital Globe     | WorldView-1/2   | ~0.5                   | Unknown       
-        Digital Globe     | GeoEye-1        | ~0.5                   | DigitalGlobe  
-        Digital Globe     | Quickbird       | ~0.5                   | DigitalGlobe  
-        Airbus            | Pleiades        | ~0.5                   | DigitalGlobe  
-        Digital Globe     | WorldView-3     | ~0.3                   | Unknown       
-        Various           | Aerial systems  | ~0.15                  | DigitalGlobe  
+        Digital Globe     | EarlyBird-1     | 3                      | 
+        Digital Globe     | Ikonos          | ~1                     |   
+        Digital Globe     | WorldView-1/2   | ~0.5                   |        
+        Digital Globe     | GeoEye-1        | ~0.5                   |   
+        Digital Globe     | Quickbird       | ~0.5                   |   
+        Airbus            | Pleiades        | ~0.5                   |   
+        Digital Globe     | WorldView-3     | ~0.3                   |        
+        Various           | Aerial systems  | ~0.15                  | Varies  
         Various           | Cameras on kites| A few cm               | Varies 
 
 #### Summary of providers, satellites & resolutions in Planet Explorer
