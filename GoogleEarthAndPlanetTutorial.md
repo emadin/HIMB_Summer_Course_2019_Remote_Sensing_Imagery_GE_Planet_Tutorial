@@ -130,9 +130,9 @@ These are the only types currently found in Planet Explorer:
         ----------------- | --------------- | ---------------------- | ------------  
         US Geolog. Survey | Landsat-8       | 30 (15 pan-sharpened)  | Feb 2013-present
         ESA (Eur Space Agency)| Sentinel-2  | 10                     |  
-        Planet            | EarlyBird-1     | 5                      |  
-        Planet            | Ikonos          | ~3                     |   
-        Planet            | WorldView-1/2   | 0.72                   |        
+        Planet            | RapidEye        | 5                      |  
+        Planet            | PlanetScope     | ~3                     |   
+        Planet            | SkySat          | 0.72                   |        
 
 #### Rules of thumb for determining spatial resolution of satellite imagery
 
