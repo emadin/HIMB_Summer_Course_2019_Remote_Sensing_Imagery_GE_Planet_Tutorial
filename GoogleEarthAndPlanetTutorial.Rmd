@@ -111,14 +111,15 @@ These are at least the main types found in Google Earth, though this list is not
         Provider          | Instrument      | Spatial resolution (m) | Operational   
         ----------------- | --------------- | ---------------------- | ------------  
         US Geolog. Survey | Landsat         | 30 (15 pan-sharpened)  | LS1 from 1972; LS8 from Feb 2013 
-        SpotImage         | SPOT 1-7        | 10 - 2.5               | Mar 1998 – present 
-        Digital Globe     | EarlyBird-1     | 3                      | 
-        Digital Globe     | Ikonos          | ~1                     |   
-        Digital Globe     | WorldView-1/2   | ~0.5                   |        
-        Digital Globe     | GeoEye-1        | ~0.5                   |   
-        Digital Globe     | Quickbird       | ~0.5                   |   
-        Airbus            | Pleiades        | ~0.5                   |   
-        Digital Globe     | WorldView-3     | ~0.3                   |        
+        SpotImage         | SPOT 1-7        | 10 - 2.5               | Mar 1998 – Present 
+        Digital Globe     | EarlyBird-1     | 3                      | Dec 1997 (3 days only)
+        Digital Globe     | Ikonos          | ~1                     | Sep 1999 - Mar 2015   
+        Digital Globe     | WorldView-1     | ~0.5                   | Sep 2007 - Present       
+        Digital Globe     | WorldView-2     | ~0.5                   | Oct 2009 - Present       
+        Digital Globe     | GeoEye-1        | ~0.5                   | Sep 2008 - Present  
+        Digital Globe     | Quickbird       | ~0.5                   | Oct 2001 - Jan 2015   
+        Airbus            | Pleiades        | ~0.5                   | Dec 2011 - Present  
+        Digital Globe     | WorldView-3     | ~0.3                   | Aug 2014 - Present       
         Various           | Aerial systems  | ~0.15                  | Varies  
         Various           | Cameras on kites| A few cm               | Varies 
 
@@ -129,10 +130,11 @@ These are the only types currently found in Planet Explorer:
         Provider          | Instrument      | Spatial resolution (m) | Operational   
         ----------------- | --------------- | ---------------------- | ------------  
         US Geolog. Survey | Landsat-8       | 30 (15 pan-sharpened)  | Feb 2013-present
-        ESA (Eur Space Agency)| Sentinel-2  | 10                     |  
-        Planet            | RapidEye        | 5                      |  
-        Planet            | PlanetScope     | ~3                     |   
-        Planet            | SkySat          | 0.72                   |        
+        ESA (Eur Space Agency)| Sentinel-2A | 10                     | Jun 2015 - Present
+        ESA (Eur Space Agency)| Sentinel-2B | 10                     | Mar 2017 - Present 
+        Planet            | RapidEye        | 5                      | Aug 2008 - Present 
+        Planet            | PlanetScope     | ~3                     | Jun 2016 - Present 
+        Planet            | SkySat          | 0.72                   | Nov 2013 - Present        
 
 #### Rules of thumb for determining spatial resolution of satellite imagery
 
