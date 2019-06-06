@@ -61,10 +61,14 @@ Components
 -   GPS coordinates
     -   Tools -&gt; GPS -&gt; (can import coordinates this way, but we won't)
 -   Time Slider
-    -   turn on
+    -   Navigate to "Subi Reef" (in the South China Sea)
+    -   turn on Time Slider
     -   check historical imagery availability
+    -   use Time Slider to go back to April 2005
+    -   click forward, image by image, to see how it's changed since then
     -   check image dates for different points on slider (bottom right)
-    -   look at different dates & see how spatial resolution changes over time
+    -   Navigate to "The Presidio San Francisco"
+    -   click to the earliest imagery date, then click through a few to present; how does imagery type and spatial resolution change over time?
 -   Resolution
     -   there is no tool that will tell you the resolution of Google Earth's imagery in any specific location...but, you can:
         -   look at pixelation
