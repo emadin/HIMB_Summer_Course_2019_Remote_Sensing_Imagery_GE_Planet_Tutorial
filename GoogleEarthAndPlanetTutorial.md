@@ -21,25 +21,23 @@ Components
 
 #### Google Earth
 
+-   Settings
+    -   turn off tilt feature (GE -&gt; Preferences -&gt; Navigation -&gt; "Do not automatically tilt while zooming")
 -   Labels
     -   place names
     -   grid
 -   Navigation
-    -   by lat/long
-        -   -21.808627°, 35.431507° (Bazaruto Island, Mozamique)
-        -   30.230207°, -88.930336° (Ship Island, Mississippi, USA)
-    -   by place name (choose own)
+    -   by lat/long (-21.808627°, 35.431507°: Bazaruto Island, Mozamique)
+    -   by place name (Hawaii Institute of Marine Biology)
 -   Controls (upper right)
     -   N (direction): change map orientation
     -   eye (look): change perspective
-    -   hand (move): pan around imagery
-    -   street view: try; see if relevant to your area
     -   zoom: zoom in and out
         -   two-finger zoom: put cursor in area to center on, then zoom
 -   Layers
     -   3D Buildings:
         -   turn layer on; navigate (by name) to "Sydney Opera House"
-        -   work with controls to positions yourself as a drone hovering at lowest roo fpeak height
+        -   work with controls to positions yourself as a drone hovering at lowest roof peak height
         -   use N (direction) control to spin Opera House around
     -   Terrain:
         -   go to 36.232957°, -111.965179° (Grand Canyon, USA)
@@ -47,12 +45,12 @@ Components
 -   Screenshots
     -   use your computer's screenshot command to capture this view, then save as .jpg (non-georectified)
 -   Placemarks
-    -   turn off tilt feature (GE -&gt; Preferences -&gt; Navigation -&gt; "Do not automatically tilt while zooming")
     -   navigate to another place (of choice)
     -   create placemark (yellow pin)
     -   choose new pin icon
     -   extract coordinates and send to Slack rotation group
     -   name/save placemark
+    -   drag place from Temporary Places to My Places (if not already there)
     -   save "My Places" (File -&gt; Save -&gt; Save My Places)
 -   Measuring
     -   lines
@@ -72,7 +70,7 @@ Components
         -   look at pixelation
         -   check copyright
         -   check nearby cars (see details below)
--   Another fun feature:
+-   Another fun feature
     -   Flight Simulator (Tools -&gt; Enter Flight Simulator)
 
 #### Planet Explorer
