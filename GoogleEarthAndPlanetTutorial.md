@@ -138,6 +138,10 @@ These are the only types currently found in Planet Explorer:
         Planet            | PlanetScope     | ~3                     | Jun 2016 - Present 
         Planet            | SkySat          | 0.72                   | Nov 2013 - Present        
 
+#### Cost of imagery acquisition
+
+The tools we'll be using are freely available (at least once access has been granted, in the case of Planet data), but in some cases in your work you may need more imagery than what's available within these platforms. Some satellite providers will consider requests for imagery 'grants' (e.g., DigitalGlobe), but you can also buy imagery. Here's a list (current as of 2018 - so there may be an updated list out there) that gives an idea of the cost (by satellite, in $ USD, per km2) of acquiring imagery: <https://www.landinfo.com/LAND_INFO_Satellite_Imagery_Pricing.pdf>. Note that most providers offer an academic discount of between 20-50%.
+
 #### Rules of thumb for determining spatial resolution of satellite imagery
 
 from GIS Stack Exchange, answered by Christiaan Adams of Google Earth Outreach; <https://gis.stackexchange.com/questions/11395/spatial-resolution-of-google-earth-imagery/256850>)
