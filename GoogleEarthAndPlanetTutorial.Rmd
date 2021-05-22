@@ -9,7 +9,7 @@ output:
 
 ## Summary 
 
-Tutorial on key features of Google Earth Engine and Planet Explorer. 
+Tutorial on key features of Google Earth Engine and Planet Explorer.  
 
 ## Goals
 
